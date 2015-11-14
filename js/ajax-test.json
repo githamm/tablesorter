@@ -1,0 +1,27 @@
+{
+  "total_rows": 3,
+
+  "headers" : [
+    "ID", "Name", "Country Code", "District", "Population"
+  ],
+
+  "rows" : [{
+    "ID": 1,
+    "Name": "Kabul",
+    "CountryCode": "AFG",
+    "District": "Kabol",
+    "Population": 1780000
+  }, {
+    "ID": 2,
+    "Name": "Qandahar",
+    "CountryCode": "AFG",
+    "District": "Qandahar",
+    "Population": 237500
+  }, {
+    "ID": 25,
+    "Name": "Haarlemmermeer",
+    "CountryCode": "NLD",
+    "District": "Noord-Holland",
+    "Population": 110722
+  }]
+}
